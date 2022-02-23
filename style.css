@@ -5,20 +5,20 @@
 }
 
 h1 {
-  color: #426696;
+  color: #42669679;
   font-weight: 600;
   font-size: 3rem;
   opacity: 0.8;
 }
 h2,
 p {
-  color: #658ec6;
+  color: #658dc648;
   font-weight: 500;
   opacity: 0.8;
 }
 
 h3 {
-  color: #426696;
+  color: #4266966c;
   font-weight: 600;
   opacity: 0.8;
 }
@@ -33,7 +33,7 @@ main {
 }
 
 .glass {
-  background: white;
+  background: rgba(255, 255, 255, 0.363);
   min-height: 80vh;
   width: 60%;
   background: linear-gradient(
